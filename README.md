@@ -6,7 +6,6 @@
 
 ***
 
-
 ### 1. Fonctionnalités de l’administrateur (Monsieur Claisse) :
 -	Avoir la possibilité d’encoder
      - Cours du tronc commun
@@ -45,7 +44,7 @@
 - Inscription
      - entrer nom prénom et adresse email student
      - vérifier par confirmation email (?)
--	Accès au formulaire pour encoder son nvx PAE
+- Accès au formulaire pour encoder son nvx PAE
      - Verrouiller le choix de l’encodage
      - Possibilité de cocher `j’ai réussi les 60 crédits du bloc`
      - Lorsqu’on coche une case afficher :  x/60 pour le calcul
@@ -54,3 +53,7 @@
      - Possibilité d’introduire une demande pour avoir des cours auxquelles il n’aurait pas accès (ce qui enverra une notif a l’admin et un mail au prof concerner)
      - Conserver les données de l’étudiants et l’encodage des PAE précédents tout au long de son parcours scolaire
      - Avant la soumission du formulaire montrer le dernier aperçu afin de donner la possibilité à l’élève de ne pas soumettre son formulaire accidentellement
+
+### 4. Général :
+
+- App mobile ou Site web (accessible en desktop et mobile) ?
